@@ -22,3 +22,5 @@ The Dictionary App is a web application developed using React.js. It enables use
 - JavaScript
 - CSS
 - VS Code
+
+https://dictionaryapi.dev/

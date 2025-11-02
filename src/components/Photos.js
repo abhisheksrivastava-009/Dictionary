@@ -10,7 +10,7 @@ const Photos = ({ photos }) => {
     <section className="Photos">
       <div className="row g-3">
         {photos.map((photo, index) => (
-          <div className="col-4" key={index}>
+          <div className="col-3" key={index}>
             <a href={photo.src.original} target="_blank" rel="noreferrer">
               <img
                 src={photo.src.landscape}
