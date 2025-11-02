@@ -1,4 +1,3 @@
-import React from "react";
 import "../styles/Audio.css";
 
 export default function AudioPlayer(props) {

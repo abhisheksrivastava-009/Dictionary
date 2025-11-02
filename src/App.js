@@ -1,4 +1,3 @@
-import React from "react";
 import Dictionary from "./components/Dictionary";
 import "./App.css";
 

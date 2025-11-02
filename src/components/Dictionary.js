@@ -14,7 +14,7 @@ const Dictionary = ({ defaultKeyword }) => {
   useEffect(() => {
     const search = () => {
       const dictionaryApiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en/${keyword}`;
-      const pexelsApiKey = process.env.REACT_APP_PEXELS_API_KEY;
+      const pexelsApiKey = 'tTF9xJt8Ih9Ne2REYnqtuWCoBRixL16H18uLp7ZKwFPFKDJu9lZksvUy';
       const pexelsApiUrl = `https://api.pexels.com/v1/search?query=${keyword}&per_page=9`;
       const pexelsApiHeaders = { Authorization: pexelsApiKey };
 
