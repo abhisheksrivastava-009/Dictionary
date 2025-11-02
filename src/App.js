@@ -26,7 +26,7 @@ function App() {
               </a>
               ,{" "}
               <a
-                href="#"
+                href="https://github.com/abhisheksrivastava-009/Dictionary"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer-link"
