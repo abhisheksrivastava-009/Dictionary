@@ -25,5 +25,3 @@ The Dictionary App is a web application developed using React.js. It enables use
 
 ## Using API
 - The app uses the [Free Dictionary API](https://dictionaryapi.dev) for word information and the [Pexels API](https://www.pexels.com/api/documentation/) for images.
-
-https://dictionaryapi.dev/
